@@ -1,0 +1,7 @@
+fun main(args: Array<String>) {
+  println("Qual o seu nome?")
+  val texto = readLine()!!
+  println("Seja bem vindo "  +texto)
+
+  //
+}
